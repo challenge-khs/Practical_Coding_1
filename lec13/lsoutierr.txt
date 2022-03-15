@@ -1,0 +1,2 @@
+ls: cannot access 'zzz': No such file or directory
+-rw-r--r-- 1 pcc009 pcc 108  1월 25 15:19 test.c

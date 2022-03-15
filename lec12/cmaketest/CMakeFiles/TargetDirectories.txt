@@ -1,0 +1,3 @@
+/home/course/pcc009/pcc/lec12/cmaketest/CMakeFiles/rebuild_cache.dir
+/home/course/pcc009/pcc/lec12/cmaketest/CMakeFiles/main.dir
+/home/course/pcc009/pcc/lec12/cmaketest/CMakeFiles/edit_cache.dir

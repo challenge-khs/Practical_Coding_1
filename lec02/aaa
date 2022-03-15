@@ -1,0 +1,14 @@
+total 48
+-rw-r--r-- 1 pcc009 pcc    0  1월  6 15:29 aaa
+-rwxr-xr-x 1 pcc009 pcc 8536  1월  5 16:20 a.out
+-rw-r--r-- 1 pcc009 pcc   66  1월  5 16:22 date.txt
+-rw-r--r-- 1 pcc009 pcc   23  1월  5 16:25 err.txt
+-rw-r--r-- 1 pcc009 pcc  456  1월  5 16:06 hello3
+-rw-r--r-- 1 pcc009 pcc  456  1월  5 16:08 hello4
+-rw-r--r-- 1 pcc009 pcc  198  1월  5 16:20 hello.c
+-rw-r--r-- 1 pcc009 pcc   10  1월  5 16:25 in.txt
+-rw-r--r-- 1 pcc009 pcc    0  1월  5 16:11 message.txt
+prw-r--r-- 1 pcc009 pcc    0  1월  6 15:22 mypipe
+-rw-r--r-- 1 pcc009 pcc   12  1월  5 15:13 output.txt
+-rw-r--r-- 1 pcc009 pcc   23  1월  5 16:25 out.txt
+-rw-r--r-- 1 pcc009 pcc  197  1월  5 16:04 total.txt

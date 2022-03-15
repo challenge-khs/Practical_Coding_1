@@ -1,0 +1,10 @@
+OBJS = main.o fx_s15_16.o
+CCFLAGS = -Wall -g -pg
+main: $(OBJS)
+	cc $(OBJS) $(CCFLAGS) -o $@
+main.o: main.c fx_head.h fx_s15_16.h
+	cc -c $(CCFLAGS) $<
+fx_s15_16.o: fx_s15_16.c fx_s15_16.h
+	cc -c $(CCFLAGS) $<
+clean: 
+	rm main $(OBJS)

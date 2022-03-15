@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/course/pcc009/pcc/lec12/cmaketest/fx_head.h
+
+/home/course/pcc009/pcc/lec12/cmaketest/fx_s15_16.c
+fx_head.h
+/home/course/pcc009/pcc/lec12/cmaketest/fx_head.h
+fx_s15_16.h
+/home/course/pcc009/pcc/lec12/cmaketest/fx_s15_16.h
+
+/home/course/pcc009/pcc/lec12/cmaketest/fx_s15_16.h
+fx_head.h
+/home/course/pcc009/pcc/lec12/cmaketest/fx_head.h
+math.h
+-
+
+/home/course/pcc009/pcc/lec12/cmaketest/main.c
+fx_head.h
+/home/course/pcc009/pcc/lec12/cmaketest/fx_head.h
+fx_s15_16.h
+/home/course/pcc009/pcc/lec12/cmaketest/fx_s15_16.h
+stdio.h
+-
+

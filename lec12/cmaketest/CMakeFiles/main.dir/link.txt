@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/fx_s15_16.c.o  -o main 

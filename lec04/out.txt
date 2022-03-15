@@ -1,0 +1,2 @@
+Hello stderr 300
+Hello stdout 300
